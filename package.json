@@ -1,0 +1,14 @@
+{
+  "name": "patatapclone",
+  "version": "1.0.0",
+  "description": "A Patatap Clone",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Nikunj Aggarwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
